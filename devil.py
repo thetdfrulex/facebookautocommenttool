@@ -97,7 +97,7 @@ token=msg
 def auto_post():
  
  while True:
-    graph = facebook.GraphAPI(access_token=token,version='8.0')
+    graph = facebook.GraphAPI(access_token=token,version='3.0')
     
     graph.put_object(parent_object= poct, connection_name='comments',message=aa+npl)
     print ("COMM3NT S3NT DON3!\n")
