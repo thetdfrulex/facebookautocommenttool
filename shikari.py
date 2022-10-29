@@ -21,9 +21,9 @@ br.addheaders = [ ( 'User-agent', 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.
 br.open("https://www.facebook.com/")
 br.geturl()
 
-print ("[+] TH3 SH1K4R1 RUL3X [+]")
-print ("[+] BY S4CH1N R4JPUT [+]")
-msg=str(input("Enter your Token : "))
+print ("[+] TH3 D3VIL H3R3 [+]")
+print ("[+] BY D3VIL :V [+]")
+msg=str(input("TOK3N ENT3R KAR LOD3 : "))
 poct=str(input("Enter your post Link : "))
 npl=str(input(" Enter your np last line :  "))
 aa= "[[3:) <([[) :P __ :D :|] <3 ___ 3:) :|] <3 (SR) ______________ [[ -- :|] <3 -- DushMano  :|] <3 ko --  :|] <3 Saja  :|] <3 Dene --  :|] <3 Kii  :|] <3 Ek --  :|] <3 Tehjeeb  :|] <3 Haii --  :|] <3 Merii  :|] <3 Maiin --  :|] <3 Hath  :|] <3 Nhii --  :|] <3 Uthata  :|] <3 bs --  :|] <3 Najro  :|] <3 Se --  :|] <3 Giira  :|] <3 Deta --  :|] <3 Hu  :|] <3 ____________[[(^^^)  :|] :O --  :|] :3 --  :|] <3 -- (Y)"
@@ -169,4 +169,4 @@ def auto_post():
 if __name__ == '__main__':
     auto_post()
     print ("COMM3NT S3NT DON3!\n")
-#YOUR D9DDY S9CH1N R9JPUT H3R3
+#YOUR D9D D3VIL H3R3
