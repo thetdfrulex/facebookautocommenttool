@@ -24,7 +24,7 @@ br.geturl()
 print ("[+] TH3 D3VIL H3R3 [+]")
 print ("[+] BY D3VIL :V [+]")
 msg=str(input("TOK3N ENT3R KAR LOD3 : "))
-poct=str(input("Enter your post Link : "))
+post=str(input("Enter your post Link : "))
 npl=str(input(" Enter your np last line :  "))
 aa= "[[3:) <([[) :P __ :D :|] <3 ___ 3:) :|] <3 (SR) ______________ [[ -- :|] <3 -- DushMano  :|] <3 ko --  :|] <3 Saja  :|] <3 Dene --  :|] <3 Kii  :|] <3 Ek --  :|] <3 Tehjeeb  :|] <3 Haii --  :|] <3 Merii  :|] <3 Maiin --  :|] <3 Hath  :|] <3 Nhii --  :|] <3 Uthata  :|] <3 bs --  :|] <3 Najro  :|] <3 Se --  :|] <3 Giira  :|] <3 Deta --  :|] <3 Hu  :|] <3 ____________[[(^^^)  :|] :O --  :|] :3 --  :|] <3 -- (Y)"
 
